@@ -1,0 +1,17 @@
+/* sm */
+@media (max-width:576px) {
+
+  .container{
+    width: 90%;
+  }
+}
+/* md */
+@media (min-width:768px) {}
+/* l */
+@media (min-width:992px) {}
+/* xl */
+@media (min-width:1200px) {}
+/* xxl */
+  @media (min-width: 1400px) {
+ 
+  }
